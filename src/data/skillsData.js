@@ -12,16 +12,16 @@ export const skillsData = [
     // 'Typescript',
     // 'Figma',
     // 'Ubuntu',
-    'MongoDB',
+    
     // 'Tailwind',
-    'MySQL',
-    'OpenCV',
+    
+    
     'Numpy',
     'Python',
     'C',
     // 'PostgreSQL',
     // 'MaterialUI',
-    'Firebase'
+    
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
